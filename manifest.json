@@ -1,19 +1,19 @@
 {
   "name": "StarckBot",
   "short_name": "StarckBot",
-  "description": "StarckBot - Tu bot virtual",
-  "start_url": "/",
+  "description": "StarckBot - Tu compañero en el mundo de la tecnología",
+  "start_url": "https://www.starckbot.com",
   "display": "standalone",
   "background_color": "#ffffff",
   "theme_color": "#000000",
   "icons": [
     {
-      "src": "https://drive.google.com/uc?export=view&id=1mrYNjl-eG5siWwxPYX9S4i-oarEeeKPP",
+      "src": "https://hppaco.github.io/starckbot-assets/icono%20starkbot.png",
       "sizes": "192x192",
       "type": "image/png"
     },
     {
-      "src": "https://drive.google.com/uc?export=view&id=1mrYNjl-eG5siWwxPYX9S4i-oarEeeKPP",
+      "src": "https://hppaco.github.io/starckbot-assets/icono%20starkbot.png",
       "sizes": "512x512",
       "type": "image/png"
     }
